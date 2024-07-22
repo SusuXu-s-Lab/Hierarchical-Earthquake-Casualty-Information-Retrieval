@@ -82,7 +82,7 @@ To get the hierarchical classifier and human loss extraction running, follow the
   ```
   The results will be available in: `output/[out_dir]`
   
-5. Visualization: visualize the results using `visualization.ipynb`.
+5. Visualization: `visualization.ipynb` visualize the preliminary results. For more detailed visualization with our Dynamic Truth Discovery, please refer to the our [Dynamic Truth Discovery Repo](https://github.com/SusuXu-s-Lab/Dynamic-Truth-Discovery) 
 
 ## Performance Comparison
 
